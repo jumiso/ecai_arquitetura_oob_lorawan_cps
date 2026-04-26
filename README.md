@@ -1,6 +1,6 @@
 # Respositório TCC - ECAI
 ### Especialização em Computação Aplicada à Indústria 4.0 com ênfase em Internet das Coisas / UFRR 
-## Arquitetura de Diagnóstico Out-of-Band Baseada em LoRaWAN para Sistemas Ciberfísicos Industriais
+## Arquitetura Out-of-Band Baseada em LoRaWAN para Diagnóticos de Sistemas Ciberfísicos Industriais
 
 > **Discente:** Jussara M. Soares  
 > **Orietadora** Profa. Dra. Josiane Rodrigues
