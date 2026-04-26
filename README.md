@@ -14,7 +14,7 @@ Os sistemas ciberfísicos industriais são grandes habilitadores da Indútria 4.
 
 Quando ocorre falhas na rede *in-band*, o sistema fica impedindo de receber diagnósticos de erro. Esse ponto de falha pode gerar efeitos em cascata na perda de dados importantes da borda do sistemas ciberfísicos industriais, principalmente em infraestruturas críticas.
 
-A solução validada através do simulador de redes NS-3 neste projeto acopla módulos de rádio LoRa aos nós sensores. Ao detectarem a queda da rede principal de forma autônoma, os dispositivos ativam o rádio e utilizam o meio sem fio longo e robusto do LoRa, operando sob o protocolo LoRaWAN, para enviar alertas vitais ao Network Server.
+A solução validada através do simulador de redes NS-3 neste projeto acopla módulos de rádio LoRa aos nós sensores. Ao detectarem a queda da rede principal de forma autônoma, os dispositivos ativam o rádio e utilizam o meio sem fio do LoRa, operando sob o protocolo LoRaWAN, para enviar alertas vitais ao Network Server.
 
 ---
 
