@@ -129,5 +129,5 @@ Este projeto é de código aberto e distribuído sob a licença **GNU General Pu
 Caso tenha dúvidas sobre a modelagem, a instrumentação do código C++ ou a configuração do ns-3, você pode entrar em contato:
 
 * **Autora:** Jussara M. Soares
-* [LinkedIn] (https://www.linkedin.com/in/jussara-miliano-soares)
+* [LinkedIn](https://www.linkedin.com/in/jussara-miliano-soares)
 * **E-mail:** jmilianosoares@gmail.com
